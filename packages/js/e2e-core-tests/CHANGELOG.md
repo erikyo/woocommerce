@@ -1,9 +1,17 @@
 # Unreleased
 
+## Changed
+
+- Updated top level menu css selectors
+
+## Fixed
+- Moved `merchant.login()` out of `beforeAll()` block and into test body for retried runs.
+
 ## Added
 
 - A `specs/data` folder to store page element data.
 - Tests to verify that different top-level menu and their associated sub-menus load successfully.
+- Test scaffolding via `npx wc-e2e install @woocommerce/e2e-core-tests`
 
 ## Changed
 
