@@ -25,7 +25,7 @@
 		"grunt-sass": "3.1.0",
 		"grunt-stylelint": "0.16.0",
 		"gruntify-eslint": "5.0.0",
-		"sass": "^1.45.0",
+		"dart-sass": "1.25.0",
 		"stylelint": "13.8.0"
 	}
 }
